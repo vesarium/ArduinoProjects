@@ -1,0 +1,10 @@
+{
+	"watering_period": 300,
+	"watering_duration": 10,
+	"light_on_time": 21,
+	"light_duration": 16,
+    "humidity_min_value" : 40,
+    "humidity_max_value" : 80,
+    "temp_min_value" : 18,
+    "temp_max_value" : 28
+}
